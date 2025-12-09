@@ -36,7 +36,7 @@ This project is a beginner-level machine learning exercise using the Titanic dat
 - Missing values in categorical features are handled by filling with 0 for one-hot encoded columns.
 
 ## Author
-- Your Name Here
+- Jahnavi Nagulla
 
 ---
 This project is for educational purposes and demonstrates the end-to-end process of building a simple machine learning model.
